@@ -103,7 +103,7 @@ async def start(b, m):
                     text="<i>Jᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ ᴍᴇ 🔐 **And send /start again !**</i>",
                     reply_markup=InlineKeyboardMarkup(
                         [[
-                            InlineKeyboardButton("Jᴏɪɴ ɴᴏᴡ 🔓 and send /start again!", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
+                            InlineKeyboardButton("Jᴏɪɴ ɴᴏᴡ 🔓 and send!", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
                             ]]
                     ),
                     parse_mode="HTML"
