@@ -22,13 +22,14 @@ HELP_TEXT = """
 <i>- I ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ᴇxᴛᴇʀɴᴀʟ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ !.</i>
 <i>- To watch online use mxplayer (or) vlc player ! </i>
 <i>- Tʜɪs Pᴇʀᴍᴇᴀɴᴛ Lɪɴᴋ Wɪᴛʜ Fᴀsᴛᴇsᴛ Sᴘᴇᴇᴅ</i>\n
-<u>🔸 𝗪𝗔𝗥𝗡𝗜𝗡𝗚 must join @highspeed_movies 🚸</u>\n
-<b>thanks bro!.</b>\n
+<u>🔸 𝗪𝗔𝗥𝗡𝗜𝗡𝗚 must (Just😜) join @highspeed_movies 🚸</u>\n
+<b>**⚡If you Have Any Issues Or Doubts on using this bot , Msg At @FilmyXbot ❤**/n</b>\n
 <i>Join Best movie channel! (ᴏʀ) Request movies </i> <b>: <a href='https://t.me/joinchat/AN8b3Cra72FlNmFh'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>"""
 
 ABOUT_TEXT = """
-<b>⚜ Mʏ ɴᴀᴍᴇ : Webdl bot</b>\n
-**Join Channel to get access to perks!\n Any problem please message at our group!\n**"""
+<b>⚜ Mʏ ɴᴀᴍᴇ :🤞 Webdownload bot</b>\n
+**⚡If you Have Any Issues Or Doubts on using this bot , Msg At @FilmyXbot ❤**/n
+**Join Channel to get access to perks!\n !\n**"""
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
