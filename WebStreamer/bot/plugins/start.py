@@ -14,7 +14,7 @@ START_TEXT = """
 <i>I'ᴍ Tᴇʟᴇɢʀᴀᴍ Fɪʟᴇs Sᴛʀᴇᴀᴍɪɴɢ Bᴏᴛ ᴀs ᴡᴇʟʟ Dɪʀᴇᴄᴛ Lɪɴᴋs Gᴇɴᴇʀᴀᴛᴇ</i>\n
 <i>Cʟɪᴄᴋ ᴏɴ Hᴇʟᴘ ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ</i>\n
 <i><u>𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u></i>
-<b>Join our Dedicated Movie Channel.</b>\n\n
+<b>Just Join our Dedicated Movie Channel😁.</b>\n\n
 <i><b>🍃 Bᴏᴛ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ :</b>@Highspeed_movies</i>"""
 
 HELP_TEXT = """
@@ -28,7 +28,7 @@ HELP_TEXT = """
 
 ABOUT_TEXT = """
 <b>⚜ Mʏ ɴᴀᴍᴇ :🤞 Webdownload bot</b>\n
-**⚡If you Have Any Issues Or Doubts on using this bot , Msg At @FilmyXbot ❤**/n
+**⚡If you Have Any Issues Or Doubts on using this bot , Msg At @FilmyXbot ❤**\n
 **Join Channel to get access to perks!\n !\n**"""
 
 START_BUTTONS = InlineKeyboardMarkup(
