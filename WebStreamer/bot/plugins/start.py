@@ -23,7 +23,7 @@ HELP_TEXT = """
 <i>- To watch online use mxplayer (or) vlc player ! </i>
 <i>- Tʜɪs Pᴇʀᴍᴇᴀɴᴛ Lɪɴᴋ Wɪᴛʜ Fᴀsᴛᴇsᴛ Sᴘᴇᴇᴅ</i>\n
 <u>🔸 𝗪𝗔𝗥𝗡𝗜𝗡𝗚 must (Just😜) join @highspeed_movies 🚸</u>\n
-<b>**⚡If you Have Any Issues Or Doubts on using this bot , Msg At @FilmyXbot ❤**/n</b>\n
+<b>**⚡If you Have Any Issues Or Doubts on using this bot , Msg At @FilmyXbot ❤**\n</b>\n
 <i>Join Best movie channel! (ᴏʀ) Request movies </i> <b>: <a href='https://t.me/joinchat/AN8b3Cra72FlNmFh'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>"""
 
 ABOUT_TEXT = """
