@@ -14,16 +14,16 @@ START_TEXT = """
 <i>I'ᴍ Tᴇʟᴇɢʀᴀᴍ Fɪʟᴇs Sᴛʀᴇᴀᴍɪɴɢ Bᴏᴛ ᴀs ᴡᴇʟʟ Dɪʀᴇᴄᴛ Lɪɴᴋs Gᴇɴᴇʀᴀᴛᴇ</i>\n
 <i>Cʟɪᴄᴋ ᴏɴ Hᴇʟᴘ ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ</i>\n
 <i><u>𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u></i>
-<b>Just Join our Dedicated Movie Channel😁.</b>\n\n
+<b>To Reduce Spam also to watch online use @Webdownloads_bot😁.</b>\n\n
 <i><b>🍃 Bᴏᴛ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ :</b>@Highspeed_movies</i>"""
 
 HELP_TEXT = """
 <i>- Sᴇɴᴅ ᴍᴇ ᴀɴʏ ꜰɪʟᴇ (ᴏʀ) ᴍᴇᴅɪᴀ ꜰʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ.</i>
 <i>- I ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ᴇxᴛᴇʀɴᴀʟ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ !.</i>
-<i>- To watch online use mxplayer (or) vlc player ! </i>
+<i>- To watch online use @Webdownloads_bot ! </i>
 <i>- Tʜɪs Pᴇʀᴍᴇᴀɴᴛ Lɪɴᴋ Wɪᴛʜ Fᴀsᴛᴇsᴛ Sᴘᴇᴇᴅ</i>\n
-<u>🔸 𝗪𝗔𝗥𝗡𝗜𝗡𝗚 must (Just😜) join @highspeed_movies 🚸</u>\n
-<b>**⚡If you Have Any Issues Or Doubts on using this bot , Msg At @FilmyXbot ❤**\n</b>\n
+<u>🔸 𝗪𝗔𝗥𝗡𝗜𝗡𝗚 must (Just😜) join our channel 🚸</u>\n
+<b>**⚡If you Have Any Issues Or Doubts on using this bot 🎎Msg At @FilmyXbot ❤ , \n🎇For Online Watching use @Webdownloads_Bot\n**\n</b>\n
 <i>Join Best movie channel! (ᴏʀ) Request movies </i> <b>: <a href='https://t.me/joinchat/AN8b3Cra72FlNmFh'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>"""
 
 ABOUT_TEXT = """
