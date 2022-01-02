@@ -74,7 +74,8 @@ async def private_receive_handler(c: Client, m: Message):
 <i><u>𝗬𝗼𝘂𝗿 𝗟𝗶𝗻𝗸 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 !</u></i>\n
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ :</b> <i>{}</i>\n
 <b>📦 Fɪʟᴇ ꜱɪᴢᴇ :</b> <i>{}</i>\n
-<b>📥 Dᴏᴡɴʟᴏᴀᴅ / Watch Online😊 :</b> <i>{}</i>\n
+<b>📥 Dᴏᴡɴʟᴏᴀᴅ ⚡:</b> <i>{}</i>\n
+<b>To Stream/WATCH online use @Webdownloads_bot</b>\n
 <b>🚸 Nᴏᴛᴇ : Tʜɪs ᴘᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ, Nᴏᴛ Exᴘɪʀᴇᴅ</b>\n
 <i>© @Highspeed_movies </i>"""
 
